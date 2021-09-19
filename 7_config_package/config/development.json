@@ -1,0 +1,7 @@
+{
+    "name": "My First App - DEV",
+    "url": {
+        "host": "localhost",
+        "port": 2000
+    }
+}

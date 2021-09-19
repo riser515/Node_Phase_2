@@ -1,0 +1,2 @@
+Hey, this is hello.txt.
+It's inside public folder which makes it accessible directly, after the main url!

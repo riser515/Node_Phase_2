@@ -1,0 +1,7 @@
+{
+    "name": "My First App",
+    "url": {
+        "host": "myfirstapp.com",
+        "port": 443
+    }
+}
